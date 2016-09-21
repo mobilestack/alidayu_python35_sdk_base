@@ -1,0 +1,2 @@
+# alidayu_python35_sdk_base
+阿里大于的官方idk在python3.5下的调整，涉及到新的语法问题。因为自己用到了，发现旧版有许多bug，改好后共享出来
